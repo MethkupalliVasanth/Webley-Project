@@ -1,6 +1,6 @@
 # Webley-Project
 
-Wrote the entire code on python version 2.7.12. For testing the command, run the following code.
+Download the zip or clone the respository. Wrote the entire code on python version 2.7.12, so might need to install that. For testing the command, move into the directory and run the following code.
 
 > python soln.py
 
